@@ -57,24 +57,6 @@ Course-Registration-Portal/
 
 (Exclude main.exe and .obj files from GitHub as they are system-specific build files.)
 
-🚀 How to Run the Project
-
-Clone the repository:
-
-git clone https://github.com/yourusername/Course-Registration-Portal.git
-cd Course-Registration-Portal
-
-
-Compile the code:
-
-gcc main.c -o portal
-
-
-Run the program:
-
-./portal
-
-
 The program will create/append to students.txt automatically when new users are registered.
 
 📸 Sample Menu
