@@ -54,9 +54,6 @@ Course-Registration-Portal/
 ├── students.txt    # File storing registered student IDs & passwords
 └── README.md       # Documentation
 
-
-(Exclude main.exe and .obj files from GitHub as they are system-specific build files.)
-
 The program will create/append to students.txt automatically when new users are registered.
 
 📸 Sample Menu
